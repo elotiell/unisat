@@ -1,15 +1,10 @@
 [
     {
-        "private_key": "your_private_key_1",
-        "address": "generated_address_1"
+        "private_key": "cV3vH9mRXfZfxk2R9bYF6zMPzjEvrsQWy7yxxTYiKr2YYe9cKrE5",
+        "address": ""
     },
     {
-        "private_key": "your_private_key_2",
-        "address": "generated_address_2"
-    },
-    {
-        "private_key": "your_private_key_3",
-        "address": "generated_address_3"
+        "private_key": "cT3b4mWkKuXW9j7uJw8m8wKdKz5MBRFaFg8yK1QkgzDdrzn3uP7V",
+        "address": ""
     }
 ]
-
